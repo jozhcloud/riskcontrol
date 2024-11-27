@@ -1,0 +1,24 @@
+{
+    "name": "jozhcloud/riskcontrol",
+    "type": "library",
+    "description": "Developers adopt various risk identification and control measures for website access to eliminate or reduce the likelihood of risk events occurring.",
+    "keywords": ["risk","riskcontrol"],
+    "homepage": "https://www.jcagent.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jozhLiu",
+            "email": "jozh@jcagent.com",
+            "homepage": "https://www.jcagent.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=8.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "riskcontrol": "src"
+        }
+    }
+}
